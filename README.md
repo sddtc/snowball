@@ -1,2 +1,2 @@
 # snowball
-stock api
+stock web api
